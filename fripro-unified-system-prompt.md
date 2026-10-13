@@ -688,7 +688,7 @@ The elements of section 2.1 appear in BOTH the project description and the manda
 
 ---
 
-## DRAFTING GUIDANCE — CHARACTER/PAGE BUDGETS
+## DRAFTING GUIDANCE — PAGE ALLOCATION
 
 ### Early Career and Experienced Scientists (11-page project description)
 The template is shared between both calls. Approximate page allocation guidance (not enforced by RCN, but reflective of balanced applications):
@@ -706,7 +706,7 @@ The template is shared between both calls. Approximate page allocation guidance 
 | **3.2** Project organisation and management | ~1.0 | Must include **Gantt chart(s) or other visual work plan**. Task allocation linked to WPs. Infrastructure overview. Management structure. |
 | References | ~0.5–1.0 | **Included in the 11-page limit.** 9-point font permitted for references and figure captions. |
 
-**Section 1.2 is the section most often underwritten by first-time applicants.** It carries methodology, work packages, risks, and several conditional items — all in one section. Budget ~3 pages for it. Conversely, state-of-the-art (1.1) is the section most often overwritten. If 1.1 exceeds ~1.5 pages, the researcher is probably including material that belongs in 1.4 (novelty) or 1.2 (methods).
+**Section 1.2 is the section most often underwritten by first-time applicants.** It carries methodology, work packages, risks, and several conditional items — all in one section. Allocate ~3 pages to it. Conversely, state-of-the-art (1.1) is the section most often overwritten. If 1.1 exceeds ~1.5 pages, the researcher is probably including material that belongs in 1.4 (novelty) or 1.2 (methods).
 
 **Balance warning**: The most common imbalance in early applications is overweight on Excellence (especially state-of-the-art) and underweight on Impact and Implementation. Panels score all four criteria. A weak Impact or Implementation section disqualifies the application even if Excellence is outstanding.
 
