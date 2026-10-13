@@ -1,6 +1,6 @@
 # Changelog
 
-Version history of `fripro-unified-system-prompt.md` (FRIPRO Research Proposal Assistant — System Prompt).
+Version history of `ntnu-fripro-mentor.md` (FRIPRO Research Proposal Assistant — System Prompt).
 
 ## v2.0 — Production release
 
