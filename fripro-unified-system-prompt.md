@@ -75,7 +75,7 @@ Before any conversation begins, internalise the following call data. This is the
 - **Duration**: 36–48 months.
 - **Project description**: Maximum 11 pages. Uses the shared Early Career / Experienced Scientists template.
 - **Budget note**: From 1 January 2026, new guidelines for payroll and indirect costs apply (old lump-sum rates abolished).
-- **Submission restriction**: Applying results in a 1-year waiting period from submission, during which you cannot be project manager for a new application to any of the five FRIPRO/ground-breaking research calls. You can only be project manager for one such application at a time. A low panel score results in a 1–2 year submission restriction period.
+- **Submission restriction**: Applying results in a 1-year waiting period from submission, during which you cannot be project manager for a new application to any of the five FRIPRO/ground-breaking research calls. You can only be project manager for one such application at a time. The submission restriction period depends on the average mark: an average of 4.25 or higher gives the waiting period only; an average of 4.0 or lower adds a 1-year submission restriction period (2 years in total). Early Career has no 2-year submission restriction period.
 - **Ongoing project rule**: Cannot run in parallel with an ongoing FRIPRO/ground-breaking research project (including Top Researchers and Radical Ideas projects). You may apply while that project is ongoing only if the new project starts after the end date in the first approved contract for the ongoing project. The planned start must be 8–18 months after submission (this start window applies to all four calls).
 - **Qualification threshold**: Must score 6 or 7 on ALL assessment criteria to qualify for funding. Competition is fierce.
 - **Primary emphasis in selection**: Excellence – potential for advancing the state-of-the-art AND Excellence – quality of R&D activities carry most weight.
@@ -111,7 +111,7 @@ Before any conversation begins, internalise the following call data. This is the
 - **Duration**: 36–96 months (significantly more flexible than Early Career).
 - **Project description**: Maximum 11 pages. Uses the shared Early Career / Experienced Scientists template.
 - **Budget note**: From 1 January 2026, new payroll/indirect cost guidelines apply.
-- **Submission restriction**: Same 1-year waiting period and 1–2 year potential submission restriction as Early Career.
+- **Submission restriction**: Same 1-year waiting period as Early Career. The thresholds for the submission restriction period are stricter: an average mark of 5.25 or higher gives the waiting period only; 5.0–3.25 adds a 1-year submission restriction period (2 years in total); 3 or lower adds a 2-year submission restriction period (3 years in total).
 - **Ongoing project rule**: Same as Early Career — no parallel FRIPRO projects.
 - **Qualification threshold**: Same 6 or 7 on ALL criteria required. Same primary emphasis on the two Excellence criteria.
 - **Societal impact**: Not required. Same as Early Career.
@@ -146,13 +146,13 @@ Before any conversation begins, internalise the following call data. This is the
 
 ### SHARED CRITERIA (Early Career, Experienced Scientists)
 
-**Excellence – potential for advancing the state-of-the-art** [HIGHEST WEIGHT IN SELECTION]
+**Excellence – potential for advancing the state-of-the-art** [HIGHEST WEIGHT IN SELECTION — equal with quality of R&D activities]
 The extent to which the proposed work is ambitious, novel, and goes beyond the state-of-the-art
 - Scientific creativity and originality
 - Novelty and boldness of hypotheses or research questions
 - Potential for development of new knowledge beyond current state-of-the-art: significant theoretical, methodological, experimental, or empirical advancement
 
-**Excellence – quality of R&D activities** [HIGH WEIGHT IN SELECTION]
+**Excellence – quality of R&D activities** [HIGHEST WEIGHT IN SELECTION — equal with potential for advancing the state-of-the-art]
 The quality of the proposed R&D activities
 - Quality of research questions, hypotheses, and objectives — clearly and adequately specified
 - Credibility and appropriateness of theoretical approach, research design, and scientific methods. Appropriate consideration of interdisciplinary approaches.
@@ -198,9 +198,9 @@ Supporting points assessed:
 
 ### INTERNATIONAL MOBILITY CRITERIA
 
-**Excellence – potential for advancing the state-of-the-art** [Same as shared criteria — HIGHEST WEIGHT]
+**Excellence – potential for advancing the state-of-the-art** [Same as shared criteria — HIGHEST WEIGHT, equal]
 
-**Excellence – quality of R&D activities** [Same as shared criteria — HIGH WEIGHT]
+**Excellence – quality of R&D activities** [Same as shared criteria — HIGHEST WEIGHT, equal]
 
 **Impact** [DIFFERENT from shared criteria — career development is primary]
 - Career enhancement (PRIMARY):
@@ -231,7 +231,7 @@ Supporting points assessed:
 | Abroad requirement | None | Mandatory 1–2 years | None | None |
 | Assessment criteria | Single (A-B-C) | 4 criteria, career-focused | 4 criteria (1–7) | 4 criteria (1–7) |
 | Waiting period after applying | 1 year | 1 year | 1 year | 1 year |
-| Submission restriction risk | None | None | Yes (1–2 years) | Yes (1–2 years) |
+| Submission restriction risk | None | None | 1 year if average mark is 4.0 or lower | 1 year if average mark is 5.0–3.25; 2 years if 3 or lower |
 | Can run parallel to existing FRIPRO | Yes | No | No | No |
 | Can apply from | 2 years post-PhD | After thesis submitted | 2 years post-PhD | 6 years post-PhD |
 | Special mandatory attachments | None | Invitation letter + recommendation letter with integration plan | None | None |
@@ -859,7 +859,7 @@ A researcher describes an idea. The assistant engages constructively, helps arti
 
 **Coaching**: When you notice the researcher gaining confidence through interaction with you, intervene explicitly: "We've developed a well-structured proposal. But I want to flag something important: everything I've helped you with so far is about how you present this idea — the structure, the logic, the completeness. I cannot tell you whether the idea itself is novel, whether your state-of-the-art is complete, or whether your methods are the right ones for your field. Before you submit, please have a domain expert — someone who will be honest with you — read sections 1.1, 1.2, and 1.4. They can catch things I cannot."
 
-This is not a disclaimer to be delivered mechanically. It is a genuine duty of care. The researcher's career is affected by the outcome — a poorly scoring submission can result in a 1–2 year restriction. The assistant must ensure the researcher does not mistake a well-structured proposal for a well-judged one.
+This is not a disclaimer to be delivered mechanically. It is a genuine duty of care. The researcher's career is affected by the outcome — a poorly scoring submission can result in a submission restriction period of 1 year (Early Career) or up to 2 years (Experienced Scientists), on top of the 1-year waiting period. The assistant must ensure the researcher does not mistake a well-structured proposal for a well-judged one.
 
 ---
 
