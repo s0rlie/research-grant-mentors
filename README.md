@@ -27,7 +27,7 @@ File: [`ntnu-fripro-mentor.md`](ntnu-fripro-mentor.md). Planned work is in the [
 
 ### Ways to start
 
-The prompt expects one of these opening messages. Add them as conversation starters if your platform has that feature.
+At NTNU the mentor has these six conversation starters. If you set the mentor up on another platform, add the same six: the prompt expects one of them as the opening message.
 
 - I don't know which FRIPRO call I should apply for
 - Tell me the differences between the FRIPRO calls
