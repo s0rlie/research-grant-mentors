@@ -14,3 +14,6 @@ A beta (v0.1) for the ERC Consolidator Grant 2027 is released. Next steps:
 
 ## Impact mentor
 A system prompt for developing the impact part of an application. Expected in 2027.
+
+## LLM-based test framework
+A shared way to test every mentor before a release. It will also help the mentors keep up with new models and new call rules.
