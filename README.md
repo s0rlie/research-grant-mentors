@@ -27,7 +27,7 @@ File: [`ntnu-fripro-mentor.md`](ntnu-fripro-mentor.md). Planned work is in the [
 
 ### Ways to start
 
-At NTNU the mentor has these six conversation starters. If you set the mentor up on another platform, add the same six: the prompt expects one of them as the opening message.
+On GPT NTNU, NTNU's chat service on IDUN, the mentor is ready to use with these six conversation starters. On another platform, or with a direct connection to the IDUN LLM, set up the system prompt yourself (see Set-up). Add the same six starters: the prompt expects one of them as the opening message.
 
 - I don't know which FRIPRO call I should apply for
 - Tell me the differences between the FRIPRO calls
@@ -75,6 +75,13 @@ These steps apply to every mentor.
 1. Create a custom assistant in your chat service.
 2. Copy everything between `# SYSTEM PROMPT — START` and `# SYSTEM PROMPT — END` into the instructions field.
 3. The last section contains the line `Today's date: {{current_date}}`. If your platform uses a different date variable, replace the placeholder. If it has none, leave the line as it is: the mentor then asks you for the date.
+
+## Privacy
+
+- The mentors ask for facts, not documents. For eligibility they ask for dates and months, such as "PhD defended 03/2019, 11 months deductible leave".
+- They do not ask for your CV to check eligibility, and they never ask why you were on leave.
+- Replace the names of other people with roles, such as "Partner A" or "Postdoc 1", before you paste a draft.
+- Delete the chat when you are done.
 
 ## Limitations
 

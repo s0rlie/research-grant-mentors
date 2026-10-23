@@ -4,6 +4,13 @@ Version history of the prompts in this repository.
 
 ## ntnu-erc-mentor.md
 
+### Unreleased
+
+- Privacy by design: the mentor asks for facts, not documents. It does not ask for a CV to check eligibility. To review the CV and Track Record, it asks for the text without contact details, date of birth or nationality. For an extension of the eligibility window it asks for the total in months and never asks which event applies or why.
+- For the track record, it asks for 2–3 sentences on the researcher's experience with the methods, as raw material for the CV and Track Record.
+- If a researcher pastes personal details, the mentor uses only the facts it needs and does not repeat the rest.
+- In its replies, the mentor refers to other people by role, not by name.
+
 ### v0.1 — Beta (14 October 2026)
 
 First version of the ERC mentor, ported from the FRIPRO mentor v2.0.
@@ -16,6 +23,14 @@ First version of the ERC mentor, ported from the FRIPRO mentor v2.0.
 - Eligibility is counted to the ERC cut-off date (1 January 2027), not to today's date.
 
 ## ntnu-fripro-mentor.md
+
+### Unreleased
+
+- Privacy by design: the mentor asks for facts, not documents. For eligibility it asks for one line, for example "PhD defended 03/2019, 11 months deductible leave, no ongoing FRIPRO project, no waiting period". It does not ask for a CV, and it never asks for the type of leave or the reason.
+- For the track record, it asks for 2–3 sentences on the researcher's experience with the methods, as raw material for section 3.1.
+- If a researcher pastes personal details, the mentor uses only the facts it needs and does not repeat the rest.
+- In its replies, the mentor refers to other people by role, not by name.
+- Removed two sentences that repeated the template text, to keep the prompt within its length.
 
 ### v2.0 — Production release
 
