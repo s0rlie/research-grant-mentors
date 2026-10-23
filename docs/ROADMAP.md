@@ -3,7 +3,7 @@
 Plans, not commitments. Dates follow the funders' own schedules and may move.
 
 ## FRIPRO mentor: RCN's new application system
-The Research Council of Norway is moving FRIPRO to a new application system at the end of October or beginning of November 2026. Radical Ideas follows during 2027. The FRIPRO prompt will be revised against the new call texts and templates once they are published. Until then it reflects the calls as published for the current system.
+The Research Council of Norway moves FRIPRO to a new application system during 2026. It will announce the date at least six weeks before the move ([source](https://www.forskningsradet.no/nyheter/2026/fripro-nytt-soknadssystem/)). Radical Ideas follows during 2027 ([source](https://www.forskningsradet.no/portefoljer/banebrytende-forskning/fripro/)). In the new system, the project description is written in text fields in the application form ([source](https://www.forskningsradet.no/nyheter/2026/hvorfor-innforer-forskningsradet-nytt-soknadssystem/)). The FRIPRO prompt will be revised against the new call texts and templates once they are published. Until then it reflects the calls as published for the current system.
 
 ## ERC mentor
 A beta (v0.1) for the ERC Consolidator Grant 2027 is released. Next steps:

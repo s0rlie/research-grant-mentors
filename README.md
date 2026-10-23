@@ -14,7 +14,7 @@ File: [`ntnu-fripro-mentor.md`](ntnu-fripro-mentor.md). Planned work is in the [
 | **Calls covered** | Early Career Scientists, Radical Research Ideas, Experienced Scientists, and International Mobility. |
 | **How it works** | It interviews you. It asks you to state your idea in one sentence before it helps you draft. It reviews a draft against the assessment criteria and the project description template. |
 | **Sources** | The call texts and project description templates on [forskningsradet.no](https://www.forskningsradet.no/en/Portfolios/ground-breaking/fripro/). The call facts are written into the prompt. The mentor does not search the web. |
-| **Call facts last checked** | 13 October 2026. |
+| **Call facts last checked** | 13 October 2026. The facts are for the Research Council of Norway's current application system. FRIPRO moves to a new system during 2026. See the [roadmap](docs/ROADMAP.md). |
 | **Not included** | Top Researchers and other programmes. Budget tables and the application form. Your institution's internal deadlines and procedures. |
 | **It does not judge the science** | The mentor assesses how clearly a claim is stated and how well the parts of the proposal fit together. It cannot tell you whether an idea is new, important or correct. |
 
