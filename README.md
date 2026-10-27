@@ -125,5 +125,5 @@ These limits come from how language models work. They apply to every mentor and 
 - **The same question can give a different answer.** Answers vary from one attempt to the next, and from one model to another.
 - **It leans towards agreement.** Language models tend to agree with the person they talk to. Ask it for the weaknesses.
 - **It can invent references.** A paper, author or result that it mentions may not exist. Check every reference yourself.
-- **It does not know today's date unless the platform or you supply it.** Eligibility depends on dates, so give the date if it asks.
+- **It does not know today's date unless the platform or you supply it.** Planning to a deadline depends on it, so give the date if it asks.
 - **Text it writes tends towards common phrasing.** Keep your own formulations where they carry your idea.

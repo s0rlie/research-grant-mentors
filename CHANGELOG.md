@@ -4,7 +4,7 @@ Version history of the prompts in this repository.
 
 ## ntnu-erc-mentor.md
 
-### Unreleased
+### v0.2 — Beta (27 October 2026)
 
 - Privacy by design: the mentor asks for facts, not documents. It does not ask for a CV to check eligibility. To review the CV and Track Record, it asks for the text without contact details, date of birth or nationality. For an extension of the eligibility window it asks for the total in months and never asks which event applies or why.
 - For the track record, it asks for 2–3 sentences on the researcher's experience with the methods, as raw material for the CV and Track Record.
@@ -39,9 +39,16 @@ First public version of the MSCA Doctoral Networks mentor.
 
 ## ntnu-fripro-mentor.md
 
-### Unreleased
+### v2.1 (27 October 2026)
 
-- Privacy by design: the mentor asks for facts, not documents. For eligibility it asks for one line, for example "PhD defended 03/2019, 11 months deductible leave, no ongoing FRIPRO project, no waiting period". It does not ask for a CV, and it never asks for the type of leave or the reason.
+Call facts checked against the RCN call pages, the project description templates, RCN's page on waiting and submission restriction periods, and the FRIPRO granting principles.
+
+- Corrected call facts: Radical Ideas from 2 years after the PhD; the 1-year waiting period for each call; the ongoing-project rule (a new project may start after the contracted end date of the ongoing one); the submission restriction thresholds for Early Career and Experienced Scientists; equal weight for the two Excellence criteria.
+- International Mobility template described, with its section numbers wherever sections are cited.
+- Verbatim template and criterion quotes restored. When asked what "excellence" or another criterion term means, the mentor answers with the criterion wording.
+- New: RULES FOR EVERY TURN at the top and a TODAY'S DATE section at the end.
+- Duplicated statements and layout overhead removed: 83,704 to 81,940 characters with no change to what the prompt says.
+- Privacy by design: the mentor asks for facts, not documents. For eligibility it asks for one line, for example "PhD defended 03/2019, 11 months deductible leave, submitting 04/2027, no ongoing FRIPRO project, no waiting period". It does not ask for a CV, and it never asks for the type of leave or the reason.
 - For the track record, it asks for 2–3 sentences on the researcher's experience with the methods, as raw material for section 3.1.
 - If a researcher pastes personal details, the mentor uses only the facts it needs and does not repeat the rest.
 - In its replies, the mentor refers to other people by role, not by name.
@@ -52,7 +59,7 @@ First public version of the MSCA Doctoral Networks mentor.
 - For questions the call text does not answer, the mentor directs the researcher to RCN's contact form. fripro@rcn.no is only for withdrawing an application.
 - The rule against invented call facts is stated once, in rule 5.
 
-### v2.0 — Production release
+### v2.0 — Production release (18 August 2026)
 
 Unified assistant for all four FRIPRO calls. For use in LibreChat / Open WebUI on NTNU IDUN infrastructure.
 
