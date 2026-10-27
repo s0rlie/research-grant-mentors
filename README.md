@@ -1,5 +1,5 @@
 # research-grant-mentors
-Interview-based system prompts for developing research grant applications (FRIPRO and the ERC Consolidator Grant; more calls planned). Asks questions rather than writing text. Optimised for NTNU's IDUN LLM services.
+Interview-based system prompts for developing research grant applications (FRIPRO, the ERC Consolidator Grant and MSCA Doctoral Networks; more calls planned). Asks questions rather than writing text. Optimised for NTNU's IDUN LLM services.
 
 Read the policy for Use of ICT tools with generative artificial intelligence at NTNU carefully before using the system prompt.
 [Link to policy](https://i.ntnu.no/wiki/-/wiki/English/Use+of+ICT+tools+with+generative+artificial+intelligence+at+NTNU+-+policy)
@@ -67,6 +67,36 @@ Add these six conversation starters on your platform: the prompt expects one of 
 - I got an ERC evaluation report
 - Turn my FRIPRO project into an ERC project
 - Show me the journey from idea to submitted ERC proposal
+
+## NTNU MSCA DN Mentor — beta (v0.1)
+
+File: [`ntnu-msca-dn-mentor.md`](ntnu-msca-dn-mentor.md). This is a first version for teams that already have a draft. The mentor will change.
+
+| | |
+|---|---|
+| **Best for** | Writing teams with NTNU as coordinator of an MSCA Doctoral Network, in the final weeks before the deadline. The mentor reviews sections of Part B, checks consistency across Part B1, Part B2 and Part A, and plans the work to the deadline. You write the text. |
+| **Calls covered** | MSCA Doctoral Networks 2026 (HORIZON-MSCA-2026-DN-01-01, deadline 24 November 2026), standard Doctoral Networks only. |
+| **How it works** | It asks which job you want done, then delivers it in a fixed format: findings ranked by priority, tables to check, or a checklist. It names what costs points and asks the question that lets you fix it. It does not write text for you. |
+| **Sources** | The Horizon Europe Work Programme 2026–2027 for MSCA, the Part B application form and the evaluation form, on the [Funding & Tenders Portal](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MSCA-2026-DN-01-01). The call facts are written into the prompt. The mentor does not search the web. |
+| **Call facts last checked** | 27 October 2026. Some facts come from the Guide for Applicants only and were not checked again. |
+| **Not included** | Industrial and Joint Doctorates, Postdoctoral Fellowships, Staff Exchanges and COFUND. NTNU as a partner rather than coordinator. The budget and the online forms in Part A. Your institution's internal deadlines and procedures. |
+| **It does not judge the science** | The mentor assesses how clearly a claim is stated and how well the parts of the proposal fit together. It cannot tell you whether the research, the training or the supervision is excellent. |
+
+### Check the result
+
+- **Call rules:** the Work Programme and the Guide for Applicants are the authority. Ask the [MSCA National Contact Point](https://www.forskningsradet.no/en/horizon-europe/ncp-national-contacts/) at the Research Council of Norway when they do not answer your question.
+- **The science:** ask a senior colleague outside the consortium to read Part B1 before you submit. The mentor cannot replace that review.
+- **Your application:** speak to the research adviser at your faculty about Part A, the budget and internal deadlines.
+- **Use of AI:** Part B2 has a declaration on the use of AI. You are responsible for everything you submit.
+
+### Ways to start
+
+On GPT NTNU the mentor is ready to use with these four conversation starters. On another platform, add the same four. The mentor also works without one: it then asks which job you want done.
+
+- I have a draft I want feedback on
+- Check consistency across Part B1, Part B2 and Part A
+- Run the pre-submission check
+- Plan our work to the deadline
 
 ## Set-up
 

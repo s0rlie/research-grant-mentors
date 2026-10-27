@@ -12,6 +12,11 @@ A beta (v0.1) for the ERC Consolidator Grant 2027 is released. Next steps:
 - The Starting Grant, once the 2028 Work Programme is published.
 - A bounded mode to prepare for the Step 2 interview.
 
+## MSCA Doctoral Networks mentor
+A beta (v0.1) for the MSCA Doctoral Networks 2026 call is released. Next steps:
+- The 2027 call, under the amended Work Programme.
+- A decision on whether other MSCA actions get their own mentors.
+
 ## Impact mentor
 A system prompt for developing the impact part of an application. Expected in 2027.
 

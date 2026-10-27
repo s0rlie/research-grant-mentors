@@ -22,6 +22,19 @@ First version of the ERC mentor, ported from the FRIPRO mentor v2.0.
 - New: section on AI use, authorship and confidentiality; resubmission restrictions; reading Part B1 as a Step 1 panel member; asks for page counts and figures instead of guessing them.
 - Eligibility is counted to the ERC cut-off date (1 January 2027), not to today's date.
 
+## ntnu-msca-dn-mentor.md
+
+### v0.1 — Beta (27 October 2026)
+
+First public version of the MSCA Doctoral Networks mentor.
+
+- Covers the MSCA Doctoral Networks 2026 call, standard Doctoral Networks only, with NTNU as coordinator.
+- Made for teams with a draft: eight work modes, each with a fixed deliverable, from section review to pre-submission check and planning to the deadline.
+- Call facts checked against the Work Programme 2026–2027 for MSCA, the Part B application form V6.0, the evaluation form v2.2 and the MSCA financial guide. Corrected: the mobility rule applies only to the first recruitment; the research, training and networking contribution lists examples; a 70% overlap with a 2025 proposal triggers a similarity assessment, not a fail; the footnote and page-number rules.
+- Privacy by design: the mentor asks for facts, not documents, and refers to people by role. It never assesses, ranks or compares a named person.
+- Internal labels no longer appear in replies.
+- Shorter than the version used before publication, by about 1,200 characters.
+
 ## ntnu-fripro-mentor.md
 
 ### Unreleased
