@@ -10,6 +10,7 @@ Version history of the prompts in this repository.
 - For the track record, it asks for 2–3 sentences on the researcher's experience with the methods, as raw material for the CV and Track Record.
 - If a researcher pastes personal details, the mentor uses only the facts it needs and does not repeat the rest.
 - In its replies, the mentor refers to other people by role, not by name.
+- The mentor never rates a person, the researcher included. It checks how the CV and Track Record is written.
 
 ### v0.1 — Beta (14 October 2026)
 
@@ -44,6 +45,8 @@ First public version of the MSCA Doctoral Networks mentor.
 - If a researcher pastes personal details, the mentor uses only the facts it needs and does not repeat the rest.
 - In its replies, the mentor refers to other people by role, not by name.
 - Removed two sentences that repeated the template text, to keep the prompt within its length.
+- The mentor never rates a person, the researcher included. It checks how the text is written.
+- Removed a garbled sentence from the Radical Ideas grading rule; the rule itself is unchanged.
 
 ### v2.0 — Production release
 
