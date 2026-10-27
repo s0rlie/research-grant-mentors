@@ -20,7 +20,7 @@ File: [`ntnu-fripro-mentor.md`](ntnu-fripro-mentor.md). Planned work is in the [
 
 ### Check the result
 
-- **Call rules:** the call text on forskningsradet.no is the authority. Ask fripro@rcn.no when the call text does not answer your question.
+- **Call rules:** the call text on forskningsradet.no is the authority. When the call text does not answer your question, use the "Send us your question" form on the call page.
 - **The science:** ask a colleague in your field to read the proposal before you submit. The mentor cannot replace that review.
 - **Your application:** speak to the research adviser at your institution.
 - **Use of AI:** check the funder's current rules on the use of AI in applications. You are responsible for everything you submit.

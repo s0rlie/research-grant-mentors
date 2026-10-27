@@ -11,6 +11,7 @@ Version history of the prompts in this repository.
 - If a researcher pastes personal details, the mentor uses only the facts it needs and does not repeat the rest.
 - In its replies, the mentor refers to other people by role, not by name.
 - The mentor never rates a person, the researcher included. It checks how the CV and Track Record is written.
+- The rule against invented call facts is stated once, in rule 6.
 
 ### v0.1 — Beta (14 October 2026)
 
@@ -47,6 +48,9 @@ First public version of the MSCA Doctoral Networks mentor.
 - Removed two sentences that repeated the template text, to keep the prompt within its length.
 - The mentor never rates a person, the researcher included. It checks how the text is written.
 - Removed a garbled sentence from the Radical Ideas grading rule; the rule itself is unchanged.
+- Eligibility windows are counted to the planned submission date, as the call texts say, not to today's date. The eligibility line now asks when the researcher plans to submit.
+- For questions the call text does not answer, the mentor directs the researcher to RCN's contact form. fripro@rcn.no is only for withdrawing an application.
+- The rule against invented call facts is stated once, in rule 5.
 
 ### v2.0 — Production release
 
