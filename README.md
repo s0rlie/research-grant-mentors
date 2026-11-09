@@ -1,8 +1,7 @@
 # research-grant-mentors
 Interview-based system prompts for developing research grant applications (FRIPRO, the ERC Consolidator Grant and MSCA Doctoral Networks; more calls planned). Asks questions rather than writing text. Optimised for NTNU's IDUN LLM services.
 
-Read the policy for Use of ICT tools with generative artificial intelligence at NTNU carefully before using the system prompt.
-[Link to policy](https://i.ntnu.no/wiki/-/wiki/English/Use+of+ICT+tools+with+generative+artificial+intelligence+at+NTNU+-+policy)
+Before you use a mentor, read NTNU's [policy for use of ICT tools with generative artificial intelligence](https://i.ntnu.no/wiki/-/wiki/English/Use+of+ICT+tools+with+generative+artificial+intelligence+at+NTNU+-+policy).
 
 ## NTNU FRIPRO Mentor
 
@@ -36,7 +35,7 @@ On GPT NTNU, NTNU's chat service on IDUN, the mentor is ready to use with these 
 - I was rejected and want to improve my application
 - Show me the journey from idea to submitted proposal
 
-## NTNU ERC Mentor — beta (v0.1)
+## NTNU ERC Mentor — beta
 
 File: [`ntnu-erc-mentor.md`](ntnu-erc-mentor.md). This is a first version. Coaching specific to the ERC is limited, and the mentor will change.
 
@@ -68,7 +67,7 @@ Add these six conversation starters on your platform: the prompt expects one of 
 - Turn my FRIPRO project into an ERC project
 - Show me the journey from idea to submitted ERC proposal
 
-## NTNU MSCA DN Mentor — beta (v0.1)
+## NTNU MSCA DN Mentor — beta
 
 File: [`ntnu-msca-dn-mentor.md`](ntnu-msca-dn-mentor.md). This is a first version for teams that already have a draft. The mentor will change.
 
@@ -127,3 +126,11 @@ These limits come from how language models work. They apply to every mentor and 
 - **It can invent references.** A paper, author or result that it mentions may not exist. Check every reference yourself.
 - **It does not know today's date unless the platform or you supply it.** Planning to a deadline depends on it, so give the date if it asks.
 - **Text it writes tends towards common phrasing.** Keep your own formulations where they carry your idea.
+
+## Feedback
+
+Report an error or suggest an improvement under [Issues](https://github.com/s0rlie/research-grant-mentors/issues). Do not include personal data or text from an application.
+
+## Licence
+
+The prompts and documentation are licensed under [CC BY 4.0](LICENSE). You may copy and adapt them if you give credit and link to this repository. Version history is in the [changelog](CHANGELOG.md).
